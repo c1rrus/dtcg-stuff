@@ -1,8 +1,8 @@
-# `$include` proposal for working with multiple files
+# `$includes` proposal for working with multiple files
 
 ## Idea
 
-Add a new `$include` property for the root group, whose value is an array of relative file paths to other DTCG files. The design tokens in the included files are merged together and then the tokens from the including file are merged in.
+Add a new `$includes` property for the root group, whose value is an array of relative file paths to other DTCG files. The design tokens in the included files are merged together and then the tokens from the including file are merged in.
 
 ```json
 {
