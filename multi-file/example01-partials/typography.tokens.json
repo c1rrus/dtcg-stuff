@@ -1,0 +1,41 @@
+{
+    "font": {
+        "size": {
+            "$type": "dimension",
+            "$description": "Base text size scale. Generated using https://modularscale.com/ with a base of 1rem and minor third ratio (1.2)",
+            "100": {
+                "$value": "0.833rem"
+            },
+            "200": {
+                "$value": "1rem"
+            },
+            "300": {
+                "$value": "1.2rem"
+            },
+            "400": {
+                "$value": "1.44rem"
+            },
+            "500": {
+                "$value": "1.728rem"
+            },
+            "600": {
+                "$value": "2.074rem"
+            },
+            "700": {
+                "$value": "2.488rem"
+            },
+            "800": {
+                "$value": "2.986rem"
+            },
+            "900": {
+                "$value": "3.583rem"
+            }
+        },
+        "family": {
+            "$type": "fontFamily",
+            "sans": {
+                "$value": ["Open Sans", "sans-serif"]
+            }
+        }
+    }
+}

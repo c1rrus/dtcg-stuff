@@ -1,0 +1,139 @@
+{
+    "color": {
+        "$type": "color",
+        "$description": "Base color ramps. Generated using https://leonardocolor.io/",
+        "grey100": {
+            "$value": "#d6d6d6"
+        },
+        "grey200": {
+            "$value": "#8c8c8c"
+        },
+        "grey300": {
+            "$value": "#6c6c6c"
+        },
+        "grey400": {
+            "$value": "#585858"
+        },
+        "grey500": {
+            "$value": "#494949"
+        },
+        "grey600": {
+            "$value": "#3d3d3d"
+        },
+        "red100": {
+            "$value": "#f8cbd0"
+        },
+        "red200": {
+            "$value": "#e85f6f"
+        },
+        "red300": {
+            "$value": "#d80d25"
+        },
+        "red400": {
+            "$value": "#b20a1f"
+        },
+        "red500": {
+            "$value": "#95091a"
+        },
+        "red600": {
+            "$value": "#7f0716"
+        },
+        "blue100": {
+            "$value": "#cdd5fa"
+        },
+        "blue200": {
+            "$value": "#6e85f1"
+        },
+        "blue300": {
+            "$value": "#3f5eec"
+        },
+        "blue400": {
+            "$value": "#1d42e4"
+        },
+        "blue500": {
+            "$value": "#1937be"
+        },
+        "blue600": {
+            "$value": "#152ea0"
+        }
+    },
+    "space": {
+        "$type": "dimension",
+        "$description": "Base spacing ramp. Generated using https://modularscale.com/ with a base of 1rem and golden ratio (1.618)",
+        "100": {
+            "$value": "0.056rem"
+        },
+        "200": {
+            "$value": "0.09rem"
+        },
+        "300": {
+            "$value": "0.146rem"
+        },
+        "400": {
+            "$value": "0.236rem"
+        },
+        "500": {
+            "$value": "0.382rem"
+        },
+        "600": {
+            "$value": "0.618rem"
+        },
+        "700": {
+            "$value": "1rem"
+        },
+        "800": {
+            "$value": "1.618rem"
+        },
+        "900": {
+            "$value": "2.618rem"
+        },
+        "1000": {
+            "$value": "4.236rem"
+        },
+        "1100": {
+            "$value": "6.854rem"
+        }
+    },
+    "font": {
+        "size": {
+            "$type": "dimension",
+            "$description": "Base text size scale. Generated using https://modularscale.com/ with a base of 1rem and minor third ratio (1.2)",
+            "100": {
+                "$value": "0.833rem"
+            },
+            "200": {
+                "$value": "1rem"
+            },
+            "300": {
+                "$value": "1.2rem"
+            },
+            "400": {
+                "$value": "1.44rem"
+            },
+            "500": {
+                "$value": "1.728rem"
+            },
+            "600": {
+                "$value": "2.074rem"
+            },
+            "700": {
+                "$value": "2.488rem"
+            },
+            "800": {
+                "$value": "2.986rem"
+            },
+            "900": {
+                "$value": "3.583rem"
+            }
+        },
+        "family": {
+            "$type": "fontFamily",
+            "sans": {
+                "$value": [
+                    "Open Sans",
+                    "sans-serif"
+                ]
+            }
+        }
+    }
+}

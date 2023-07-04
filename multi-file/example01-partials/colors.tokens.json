@@ -1,0 +1,60 @@
+{
+    "color": {
+        "$type": "color",
+        "$description": "Base color ramps. Generated using https://leonardocolor.io/",
+        "grey100": {
+            "$value": "#d6d6d6"
+        },
+        "grey200": {
+            "$value": "#8c8c8c"
+        },
+        "grey300": {
+            "$value": "#6c6c6c"
+        },
+        "grey400": {
+            "$value": "#585858"
+        },
+        "grey500": {
+            "$value": "#494949"
+        },
+        "grey600": {
+            "$value": "#3d3d3d"
+        },
+        "red100": {
+            "$value": "#f8cbd0"
+        },
+        "red200": {
+            "$value": "#e85f6f"
+        },
+        "red300": {
+            "$value": "#d80d25"
+        },
+        "red400": {
+            "$value": "#b20a1f"
+        },
+        "red500": {
+            "$value": "#95091a"
+        },
+        "red600": {
+            "$value": "#7f0716"
+        },
+        "blue100": {
+            "$value": "#cdd5fa"
+        },
+        "blue200": {
+            "$value": "#6e85f1"
+        },
+        "blue300": {
+            "$value": "#3f5eec"
+        },
+        "blue400": {
+            "$value": "#1d42e4"
+        },
+        "blue500": {
+            "$value": "#1937be"
+        },
+        "blue600": {
+            "$value": "#152ea0"
+        }
+    }
+}

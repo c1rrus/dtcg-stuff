@@ -1,0 +1,7 @@
+{
+    "$includes": [
+        "./colors.tokens.json",
+        "./spacing.tokens.json",
+        "./typography.tokens.json"
+    ]
+}

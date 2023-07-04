@@ -1,0 +1,39 @@
+{
+    "space": {
+        "$type": "dimension",
+        "$description": "Base spacing ramp. Generated using https://modularscale.com/ with a base of 1rem and golden ratio (1.618)",
+        "100": {
+            "$value": "0.056rem"
+        },
+        "200": {
+            "$value": "0.09rem"
+        },
+        "300": {
+            "$value": "0.146rem"
+        },
+        "400": {
+            "$value": "0.236rem"
+        },
+        "500": {
+            "$value": "0.382rem"
+        },
+        "600": {
+            "$value": "0.618rem"
+        },
+        "700": {
+            "$value": "1rem"
+        },
+        "800": {
+            "$value": "1.618rem"
+        },
+        "900": {
+            "$value": "2.618rem"
+        },
+        "1000": {
+            "$value": "4.236rem"
+        },
+        "1100": {
+            "$value": "6.854rem"
+        }
+    }
+}
