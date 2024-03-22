@@ -1,0 +1,16 @@
+{
+    "color": {
+        "red": {
+            "$type": "color",
+            "$value": "#ff0000"
+        },
+        "green": {
+            "$type": "color",
+            "$value": "#00ff00"
+        },
+        "blue": {
+            "$type": "color",
+            "$value": "#0000ff"
+        }
+    }
+}

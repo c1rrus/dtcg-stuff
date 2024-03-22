@@ -1,0 +1,14 @@
+{
+    "$type": "dimension",
+    "size": {
+        "small": {
+            "$value": "0.25rem"
+        },
+        "medium": {
+            "$value": "0.5rem"
+        },
+        "large": {
+            "$value": "1rem"
+        }
+    }
+}
